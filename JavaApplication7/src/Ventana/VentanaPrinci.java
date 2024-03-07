@@ -145,12 +145,7 @@ public class VentanaPrinci extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnRegistrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnRegistrarActionPerformed
-        String id = txtId.getText();
-        String nombre = txtNombre.getText();
-        String asignartura = txtAsignatura.getText();
-        String grado = txtGrado.getText();
-        int edad = Integer.parseInt(txtEdad.getText());
-
+        
         // TODO add your handling code here:
     }//GEN-LAST:event_btnRegistrarActionPerformed
 
